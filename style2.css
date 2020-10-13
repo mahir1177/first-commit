@@ -1,0 +1,53 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    font-size: 15px;
+    font-family: monospace;
+}
+.class1{
+    height: 100% ;
+    width: 70%;
+    background-color; ;
+    float: left;
+}
+.class2{
+    height: 100%;
+    width: 40%;
+    background-color: violet;
+    float: left;
+}
+.logo{
+    margin-top: 40px;
+    margin-left: 170px;
+}
+.comingsoon{
+    margin-top: 100px;
+    margin-left: 170px;
+    font-size: 3rem;
+    font-weight: 20;
+    letter-spacing:7px;
+    line-height: 50px;
+
+
+}
+.hello{
+    margin-top: 20px;
+    margin-left: 170px;
+  margin-right: 300px;
+    letter-spacing: 1px;
+    color: violet;
+    line-height: 30px;
+    font-weight: 30;
+}
+.span{
+    font-family:  sans-serif;
+    color: violet;
+    font-weight: 500;
+}
+.email{
+    margin-left: 170px;
+
+}
