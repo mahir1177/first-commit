@@ -12,12 +12,13 @@ body{
     width: 70%;
     background-color; ;
     float: left;
+    min-width: 40px;
 }
-.class2{
-    height: 100%;
-    width: 40%;
-    background-color: violet;
-    float: left;
+.girlimg{
+    position: fixed;
+    top: 40px;
+    right: 50px;
+
 }
 .logo{
     margin-top: 40px;
@@ -30,24 +31,27 @@ body{
     font-weight: 20;
     letter-spacing:7px;
     line-height: 50px;
-
-
+    color: violet;
 }
 .hello{
     margin-top: 20px;
     margin-left: 170px;
-  margin-right: 300px;
+    margin-right: 300px;
     letter-spacing: 1px;
     color: violet;
     line-height: 30px;
     font-weight: 30;
 }
-.span{
-    font-family:  sans-serif;
-    color: violet;
-    font-weight: 500;
-}
 .email{
     margin-left: 170px;
+    border-style: groove;
+    border-color: red;
+    border-radius: 25px;
+    line-height: 30px;
+    width: 250px;
+}
 
+.mark{
+    font-size: 24px;
+    color: red;
 }
